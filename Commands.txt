@@ -1,0 +1,35 @@
+(base) PS D:\Threads> npx create-next-app@latest ./
+
+(
+
+Sometimes, you may face issue with npm version, then try
+`npm i -g npm@8.5.1`
+
+)
+
+# Clerk - Easy and Robust Authentication
+
+(base) PS D:\Threads> npm install @clerk/nextjs @uploadthing/react mongoose svix uploadthing
+
+(base) PS D:\Threads> npm install tailwindcss-animate
+
+(base) PS D:\Threads> npm install @clerk/themes
+
+(base) PS D:\Threads> npx shadcn-ui@latest init
+
+(base) PS D:\Threads> npx shadcn-ui@latest add form
+
+(base) PS D:\Threads> npx shadcn-ui@latest add input
+
+(base) PS D:\Threads> npx shadcn-ui@latest add textarea
+
+
+
+
+
+
+Technologies Used:
+
+FIGMA, ReactJS, tailwindcss, NextJS, TypeScript, MongoDB, SEO, Zod
+
+Entire application is server side rendered, so no need of NodesJS or any backend servers (API calls) -> New NextJS Feature
