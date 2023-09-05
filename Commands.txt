@@ -23,6 +23,8 @@ Sometimes, you may face issue with npm version, then try
 
 (base) PS D:\Threads> npx shadcn-ui@latest add textarea
 
+(base) PS D:\Threads> npx shadcn-ui@latest add tabs
+
 
 
 
