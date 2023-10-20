@@ -15,7 +15,7 @@ Threads Clone is a web application built using ReactJS, NextJS 13, TypeScript, Z
 ## Getting Started
 To get started with Threads Clone, follow these steps:
 
-**Clone the Repository:** `git clone https://github.com/yourusername/threads-clone.git` </br>
+**Clone the Repository:** `git clone https://github.com/nikhil16kulkarni/threads.git` </br>
 **Install Dependencies:** </br>
 `cd threads` </br>
 `npm install` </br>
